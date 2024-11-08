@@ -25,4 +25,4 @@
 ## 🚀 インストールと実行方法
 1. このリポジトリをクローンします:
    ```bash
-   git clone https://github.com/username/restaurant-recommendation.git
+   git clone https://github.com/KUAD-XtechDesign/simple-page2024-soulplayer01.git
